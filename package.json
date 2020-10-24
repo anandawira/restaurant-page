@@ -1,0 +1,29 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "Impletmenting modules from tutorial The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandawira/restaurant-page.git"
+  },
+  "keywords": [
+    "restaurant"
+  ],
+  "author": "Ananda Wiradharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandawira/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/anandawira/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^5.2.0",
+    "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {
+    "tabsy-css": "^1.0.0"
+  }
+}
